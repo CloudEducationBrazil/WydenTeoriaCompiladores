@@ -1,0 +1,15 @@
+Template Overleaf
+https://drive.google.com/file/d/1AVZbVTJaBcVmv94B0xtVpACjyljUTg6A/view?usp=sharing
+
+Link Útil
+https://docente.ifrn.edu.br/diegooliveira/disciplinas/algoritmos/aula-03-logica-matematica-2-negacao-tautologia-contradicao-contingencia/view
+
+AV2 - Teoria de Compiladores - Wyden Yduqs 31-08-2022
+
+8. GLC e Propriedades das Linguagens de Contexto
+9. Análise Sintática  /  Semântica : Ascendente e Descendente
+10. Autômatos de Pilha
+11. Máquina de Turing
+12. Computabilidade
+
+13 e 14 - Seminário (Apresentação Geral)
